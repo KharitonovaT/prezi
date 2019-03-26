@@ -11,8 +11,11 @@
 |
 */
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 Route::get('/', function () {
-    return view('welcome');
+    return view('show/one');
 });
 Route::get('/show/1', function () {
     return view('show/one');
