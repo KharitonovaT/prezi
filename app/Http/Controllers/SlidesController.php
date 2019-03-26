@@ -39,9 +39,13 @@ class SlidesController extends Controller
         //
         // dd($request);
 
-
-        Slide::create($request->all());
-        return redirect()->route('slide'.$request->number);
+  if($request->answer!=null){
+          Slide::create($request->all());
+          return redirect()->route('slide'.$request->number);
+        }
+        else{
+          return redirect()->route('slide'.$request->number);
+        }
 
     }
 
