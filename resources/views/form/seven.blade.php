@@ -28,14 +28,15 @@
 
   <div class="row" >
     <a href="/form/6">
-      <div class="col-6 align-self-start" style="color:#cacaca; position:absolute; bottom:0; left:0; cursor:pointer">
+      <div class="col-4 align-self-start" style="color:#cacaca; position:absolute; bottom:0; left:0; cursor:pointer">
         <div style="font-size:52px; text-align:center;">
            <<
         </div>
       </div>
     </a>
+    <div class="col-4 align-self-start" style="color:#cacaca; position:absolute; bottom:0; right:0; cursor:pointer"></div>
     <a href="/form/8">
-      <div class="col-6 align-self-start" style="color:#cacaca; position:absolute; bottom:0; right:0; cursor:pointer">
+      <div class="col-4 align-self-start" style="color:#cacaca; position:absolute; bottom:0; right:0; cursor:pointer">
         <div style="font-size:52px; text-align:center;">
            >>
         </div>
