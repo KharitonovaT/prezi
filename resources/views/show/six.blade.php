@@ -6,7 +6,7 @@
   <div class="row align-items-center">
     <div class="col-12">
       <div style="padding-top:10%; font-size:42px; text-align:center;">
-        Хочется ли дома иметь подобное устройство?
+        Хотели бы Вы иметь подобное устройство?
       </div>
 
     </div>
@@ -16,16 +16,16 @@
     <div id="container"></div>
     <div style="text-align:center; font-size:24px;">
       <p>
-        <b>А.</b>  Есть и пользуюсь
+        <b>А.</b> Да, хотел
       </p>
         <p>
-          <b>Б.</b>  Есть и НЕ пользуюсь
+          <b>Б.</b>  Есть и пользуюсь
         </p>
           <p>
-            <b>В.</b>  Нет, но хочу
+            <b>В.</b>  Нет, не хотел
           </p>
           <p>
-              <b>Г.</b>  Нет и не хочу
+              <b>Г.</b>  Есть, но не пользуюсь
           </p>
 
     </div>
